@@ -1,8 +1,8 @@
 Thank you for choosing us.
 
-Countries = 246 Records
-Cities    = 103818 Records
-Regions	  = 4151 Records
+Countries             = 246 Records
+Cities                = 103818 Records
+Regions / Provinces	  = 4151 Records
 
 This Db is last updated on 16-August-2013
 
